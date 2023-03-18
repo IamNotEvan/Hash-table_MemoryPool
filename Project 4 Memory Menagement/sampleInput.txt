@@ -1,0 +1,43 @@
+remove song When Summer's Through
+print blocks
+print songs
+print artists
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Charley Patton<SEP>Mississippi Boweavil Blues
+insert Sleepy John Estes<SEP>Street Car Blues
+insert Bukka White<SEP>Fixin' To Die Blues
+insert song a1
+print blocks
+insert song a22
+print blocks
+insert song a333
+print blocks
+insert song a4444
+print blocks
+insert song a55555
+print blocks
+insert song a666666
+print blocks
+insert song a7777777
+print blocks
+insert song a88888888
+print blocks
+remove artist Blind Lemon Jefferson
+print blocks
+remove artist Ma Rainey
+print blocks
+insert song a999999999
+print blocks
+remove song a22
+print blocks
+remove artist Sleepy John Estes
+print blocks
+remove song a7777777
+print blocks
+remove song a999999999
+print blocks
+insert song abcd
+print blocks
+insert song qwer
+print blocks
